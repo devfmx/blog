@@ -1,0 +1,12 @@
+# Site settings
+title: DevF blog
+email: hola@devf.mx
+description: > # this means to ignore newlines until "baseurl:"
+  Este es el blog oficial de DevF, la des-escuela para hackers hispanoparlantes.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://devf.mx" # the base hostname & protocol for your site
+twitter_username: devfmx
+github_username:  devf
+
+# Build settings
+markdown: kramdown
